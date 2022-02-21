@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mahesh9340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh9340" height="30" width="40" /></a>
 <a href="https://instagram.com/mahesh_9192_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_9192_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahesh9340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahesh9340" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahesh340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh340" height="30" width="40" /></a>
 <a href="https://discord.gg/mahesh9340#1918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahesh9340#1918" height="30" width="40" /></a>
 </p>
 
